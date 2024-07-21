@@ -45,7 +45,7 @@ main {
   color: white;
 }
 
-input + h2 {
+h2 {
   display: inline-block;
 }
 
