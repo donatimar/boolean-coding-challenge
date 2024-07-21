@@ -27,7 +27,7 @@ input[type="submit"] {
   background-color: white;
   color: black;
   border: 2px solid black;
-  padding: 7px 7px;
+  padding: 7px;
   border-radius: 3px;
 }
 
@@ -46,7 +46,8 @@ main {
 }
 
 input + h2 {
-  display: inline-block;}
+  display: inline-block;
+}
 
 .arrow:before {
   content: "\021a6";
